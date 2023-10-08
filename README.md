@@ -39,5 +39,5 @@ The following table summarizes the results of the experiment:
 
 - **MetaGPT**: Generate quality output for Software Development Task. [Link to Experiment](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MetaGPTPongGame.ipynb)
 
-**Camel**: Generate quality output for Software Development Task. [here](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/CAMELAIPongGame.ipynb).
+- **Camel**: for a customized multi-agent framework to build a more customized LLM-based agents application. [Link to Experiment](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/CAMELAIPongGame.ipynb).
 

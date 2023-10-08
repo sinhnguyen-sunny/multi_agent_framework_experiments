@@ -27,7 +27,7 @@ The main prompt used for all three frameworks was: "Build a classic and basic Po
 
 The following table summarizes the results of the experiment:
 
-| Framework          | Easy to Customize (Rate from 1 —> 5) | Time to Terminate | Experiment Log Link |
+| Framework          | Quality of Output (Rate from 1 —> 5) | Time to Terminate (mintues) | Experiment Log Link |
 |--------------------|---------------------------------------|--------------------|---------------------|
 | Microsoft AutoGen  | 3                                     | 1                  | [MSAutogenPongGame.ipynb](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MSAutogenPongGame.ipynb) |
 | MetaGPT            | 4                                     | 2                  | [MetaGPTPongGame.ipynb](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MetaGPTPongGame.ipynb) |
@@ -35,9 +35,9 @@ The following table summarizes the results of the experiment:
 
 ### Thoughts
 
-- **Microsoft AutoGen**: This framework was relatively easy to use and customize, earning a score of 3. It performed exceptionally well in terms of termination time, taking only 1 unit of time to complete. [Link to Experiment](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MSAutogenPongGame.ipynb)
+- **Microsoft AutoGen**: easy to use, customize. [Link to Experiment](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MSAutogenPongGame.ipynb)
 
-- **MetaGPT**: MetaGPT proved to be highly customizable with a rating of 4, and it terminated in a reasonable time frame with a score of 2. It demonstrated the ability to generate quality output for software development tasks. [Link to Experiment](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MetaGPTPongGame.ipynb)
+- **MetaGPT**: Generate quality output for Software Development Task. [Link to Experiment](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/MetaGPTPongGame.ipynb)
 
-- **Camel**: Unfortunately, Camel faced difficulties in this experiment and received a low customization rating of 1. It also took significantly longer to
+**Camel**: Generate quality output for Software Development Task. [here](https://github.com/sinhnguyen-sunny/multi_agent_framework_experiments/blob/main/CAMELAIPongGame.ipynb).
 
